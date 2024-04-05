@@ -1,4 +1,3 @@
-# 💤 LazyVim
+rm -rf ~/.config/nvim && git clone git@github.com:TonyL271/nvim-setup.git ~/.config/nvim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
